@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @khadijasaeed683
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Khadija Saeed</h1>
+<h3 align="center">A passionate Computer Science student from Pakistan</h3>
 
-<!---
-khadijasaeed683/khadijasaeed683 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently studying at **UET Lahore**
+
+- 🌱 I’m currently learning **web development and game development.**
+
+- 👯 I’m looking to collaborate on **web development and graphic designing**
+
+- 📫 How to reach me **khadijasaeed683@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
