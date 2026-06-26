@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👯 I’m looking to collaborate on **web development and Game Development**
+- 👯 I’m looking to collaborate on **web development, Game Development and AI integration**
 
 - 📫 How to reach me **khadijasaeed683@gmail.com**
 
